@@ -1,0 +1,6 @@
+{
+  "name": "송금담 포트폴리오 (Song Geumdam)",
+  "description": "중국어·무역 전공과 데이터·AI 역량을 융합하여 실무 가치를 창출하는 송금담의 포트폴리오 웹사이트입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
